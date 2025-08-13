@@ -1,0 +1,20 @@
+{
+  "input_dir": "data/pdfs",
+  "file_glob": "*.pdf",
+
+  "output_dir": "data/imagens_extraidas",
+  "image_format": "png",
+  "overwrite": false,
+  "prefix_with_pdf_name": true,
+
+  "page_range": "all",
+  "include_regex": null,
+  "exclude_regex": null,
+
+  "mode": "embedded",
+
+  "dpi": 200,
+  "render_alpha": false,
+
+  "flatten_transparency": true
+}

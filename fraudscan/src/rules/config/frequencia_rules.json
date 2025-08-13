@@ -1,0 +1,33 @@
+{
+  "frequencia_maxima": {
+    "ABA": {
+      "periodo": "mensal",
+      "quantidade": 40
+    },
+    "Psicologia": {
+      "periodo": "mensal",
+      "quantidade": 24
+    },
+    "Fono": {
+      "periodo": "semanal",
+      "quantidade": 6
+    },
+    "TO": {
+      "periodo": "mensal",
+      "quantidade": 24
+    }
+  },
+  "intervalo_minimo_dias": {
+    "ABA": 1,
+    "Psicologia": 2,
+    "Fono": 1,
+    "TO": 1
+  },
+  "periodo_repeticao_proibida": {
+    "Reexame": 180
+  },
+  "nao_permitir_mesmo_dia": [
+    "ABA",
+    "Psicologia"
+  ]
+}

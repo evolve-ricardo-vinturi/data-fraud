@@ -1,0 +1,34 @@
+{
+  "elegibilidade": {
+    "idade_maxima": 18
+  },
+  "cobertura": {
+    "cid_validos": [
+      "F84"
+    ],
+    "tipos_terapia": [
+      "ABA",
+      "Fonoaudiologia",
+      "Psicologia",
+      "TO"
+    ]
+  },
+  "limites_sessoes": {
+    "ABA": {
+      "ate_12": 40,
+      "acima_12": 24
+    },
+    "Fonoaudiologia": {
+      "ate_12": 24,
+      "acima_12": 20
+    },
+    "Psicologia": {
+      "ate_12": 24,
+      "acima_12": 20
+    },
+    "TO": {
+      "ate_12": 24,
+      "acima_12": 20
+    }
+  }
+}
